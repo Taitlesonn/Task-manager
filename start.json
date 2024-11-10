@@ -1,0 +1,26 @@
+{
+    "fun" : 
+        {
+            "iftu": 0,
+            "NumberOfTasks" : 0
+        }
+    ,
+    "work" : 
+        {
+            "iftu": 0,
+            "NumberOfTasks" : 0
+        }
+    ,
+    "duties" : 
+        {
+            "iftu": 0,
+            "NumberOfTasks" : 0
+        }
+    ,
+    "PrivateProjects" : 
+        {
+            "iftu": 0,
+            "NumberOfTasks" : 0
+        }
+    
+}

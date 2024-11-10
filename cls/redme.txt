@@ -1,0 +1,22 @@
+Stopień ważności od 1-6
+
+6 - czerwony
+5 - pomarańczowy
+4 - żółty
+3 - ciemno zielony
+2 - jasno zielony
+1 - biały
+
+
+Opis zadania w json:
+    1.) id:
+            1 - fun
+            2 - work
+            3 - duties
+            4 - projekty prywatne
+
+    2.) czas podany w sekundach
+
+
+    5.) Tytuł
+    4.) Opis
